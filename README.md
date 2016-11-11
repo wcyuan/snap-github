@@ -1,5 +1,6 @@
 To store your Snap! projects on Github, try http://wcyuan.github.io/snap-github
 
+Also see https://github.com/jmoenig/Snap--Build-Your-Own-Blocks/pull/1478
 
 -------
 
